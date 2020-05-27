@@ -2,6 +2,13 @@
 
 
 The included noteboks have been slightly modified, in order to make them simplier for demo purposes.
+# My Colab notebook collection:
+* [3D Photo Inpainting](https://github.com/fzantalis/colab_collection/blob/master/3D_Photo_Inpainting.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/3D_Photo_Inpainting.ipynb)
+* [First Order Motion Model](https://github.com/fzantalis/colab_collection/blob/master/first_order_model_ttmai.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/first_order_model_ttmai.ipynb)
+* [Style Transfer 2D](https://github.com/fzantalis/colab_collection/blob/master/style_transfer_2d.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/style_transfer_2d.ipynb)
 
 # The original notebooks can be found below:
 
