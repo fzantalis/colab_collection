@@ -9,12 +9,15 @@ The included noteboks have been slightly modified, in order to make them simplie
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/first_order_model_ttmai.ipynb)
 * [Style Transfer 2D](https://github.com/fzantalis/colab_collection/blob/master/style_transfer_2d.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/style_transfer_2d.ipynb)
+* [DeOldify](https://github.com/fzantalis/colab_collection/blob/master/ImageColorizerColab_ttmai.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/ImageColorizerColab_ttmai.ipynb)
 
 # The original notebooks can be found below:
 
   - https://github.com/vt-vl-lab/3d-photo-inpainting
   - https://github.com/AliaksandrSiarohin/first-order-model
   - https://github.com/tensorflow/lucid/tree/master/notebooks
+  - https://github.com/jantic/DeOldify
 
 # Additional resources
 https://aihub.cloud.google.com/
