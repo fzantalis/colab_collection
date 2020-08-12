@@ -15,6 +15,8 @@ The included noteboks have been slightly modified, in order to make them simplie
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/Face_depixelizer_ttmai.ipynb)
 * [PIFuHD (3D models from single images)](https://github.com/fzantalis/colab_collection/blob/master/PIFuHD_ttmai.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/PIFuHD_ttmai.ipynb)
+* [DeepDream](https://github.com/fzantalis/colab_collection/blob/master/deepdream_ttmai.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/deepdream_ttmai.ipynb)
 
 # The original projects can be found below:
 
@@ -24,6 +26,7 @@ The included noteboks have been slightly modified, in order to make them simplie
   - https://github.com/jantic/DeOldify
   - https://github.com/tg-bomze/Face-Depixelizer
   - https://github.com/facebookresearch/pifuhd
+  - https://github.com/google/deepdream
 
 # Additional resources
 https://aihub.cloud.google.com/
