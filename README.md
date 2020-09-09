@@ -27,6 +27,11 @@ The included noteboks have been slightly modified, in order to make them simplie
   - https://github.com/tg-bomze/Face-Depixelizer
   - https://github.com/facebookresearch/pifuhd
   - https://github.com/google/deepdream
+  - https://github.com/NVlabs/stylegan
+  - https://github.com/openai/gpt-2
+  - https://github.com/mozilla/TTS
+  - https://github.com/fatchord/WaveRNN
+  - https://github.com/Rudrabha/Wav2Lip
 
 # Additional resources
 https://aihub.cloud.google.com/
