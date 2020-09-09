@@ -18,6 +18,15 @@ The included noteboks have been slightly modified, in order to make them simplie
 * [DeepDream](https://github.com/fzantalis/colab_collection/blob/master/deepdream_ttmai.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/deepdream_ttmai.ipynb)
 
+* [StyleGan](https://github.com/fzantalis/colab_collection/blob/master/style_gan_ttmai.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/style_gan_ttmai.ipynb)
+* [GPT-2](https://github.com/fzantalis/colab_collection/blob/master/gpt2_text_complete_ttmai.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/gpt2_text_complete_ttmai.ipynb)
+* [Mozilla TTS](https://github.com/fzantalis/colab_collection/blob/master/Mozilla_TTS_WaveRNN_ttmai.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/Mozilla_TTS_WaveRNN_ttmai.ipynb
+* [Wav2Lip Lipsync](https://github.com/fzantalis/colab_collection/blob/master/Wav2Lip_quick_trial_ttmai.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/Wav2Lip_quick_trial_ttmai.ipynb)
+
 # The original projects can be found below:
 
   - https://github.com/vt-vl-lab/3d-photo-inpainting
