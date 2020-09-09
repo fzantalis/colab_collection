@@ -17,7 +17,6 @@ The included noteboks have been slightly modified, in order to make them simplie
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/PIFuHD_ttmai.ipynb)
 * [DeepDream](https://github.com/fzantalis/colab_collection/blob/master/deepdream_ttmai.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/deepdream_ttmai.ipynb)
-
 * [StyleGan](https://github.com/fzantalis/colab_collection/blob/master/style_gan_ttmai.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/style_gan_ttmai.ipynb)
 * [GPT-2](https://github.com/fzantalis/colab_collection/blob/master/gpt2_text_complete_ttmai.ipynb)
