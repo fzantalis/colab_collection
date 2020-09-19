@@ -17,6 +17,8 @@ The included noteboks have been slightly modified, in order to make them simplie
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/PIFuHD_ttmai.ipynb)
 * [DeepDream](https://github.com/fzantalis/colab_collection/blob/master/deepdream_ttmai.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/deepdream_ttmai.ipynb)
+* [Toonify Yourself](https://github.com/fzantalis/colab_collection/blob/master/Toonify_yourself_ttmai.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/Toonify_yourself_ttmai.ipynb)
 * [StyleGan](https://github.com/fzantalis/colab_collection/blob/master/style_gan_ttmai.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/style_gan_ttmai.ipynb)
 * [GPT-2](https://github.com/fzantalis/colab_collection/blob/master/gpt2_text_complete_ttmai.ipynb)
@@ -40,6 +42,7 @@ The included noteboks have been slightly modified, in order to make them simplie
   - https://github.com/mozilla/TTS
   - https://github.com/fatchord/WaveRNN
   - https://github.com/Rudrabha/Wav2Lip
+  - https://www.justinpinkney.com/toonify-yourself/
 
 # Additional resources
 https://aihub.cloud.google.com/
