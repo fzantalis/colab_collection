@@ -27,6 +27,8 @@ The included noteboks have been slightly modified, in order to make them simplie
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/Mozilla_TTS_WaveRNN_ttmai.ipynb)
 * [Wav2Lip Lipsync](https://github.com/fzantalis/colab_collection/blob/master/Wav2Lip_quick_trial_ttmai.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/Wav2Lip_quick_trial_ttmai.ipynb)
+* [Impersonator_plus_plus](https://github.com/fzantalis/colab_collection/blob/master/ttmai_impersonator_plus_plus.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/ttmai_impersonator_plus_plus.ipynb)
 
 # The original projects can be found below:
 
@@ -43,6 +45,7 @@ The included noteboks have been slightly modified, in order to make them simplie
   - https://github.com/fatchord/WaveRNN
   - https://github.com/Rudrabha/Wav2Lip
   - https://www.justinpinkney.com/toonify-yourself/
+  - https://github.com/iPERDance/iPERCore
 
 # Additional resources
 https://aihub.cloud.google.com/
