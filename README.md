@@ -29,6 +29,9 @@ The included noteboks have been slightly modified, in order to make them simplie
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/Wav2Lip_quick_trial_ttmai.ipynb)
 * [Impersonator_plus_plus](https://github.com/fzantalis/colab_collection/blob/master/ttmai_impersonator_plus_plus.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/ttmai_impersonator_plus_plus.ipynb)
+* [Image to Painting](https://github.com/fzantalis/colab_collection/blob/master/ttmai_image_to_painting_prog.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/ttmai_image_to_painting_prog.ipynb)
+
 
 # The original projects can be found below:
 
@@ -46,6 +49,7 @@ The included noteboks have been slightly modified, in order to make them simplie
   - https://github.com/Rudrabha/Wav2Lip
   - https://www.justinpinkney.com/toonify-yourself/
   - https://github.com/iPERDance/iPERCore
+  - https://github.com/jiupinjia/stylized-neural-painting
 
 # Additional resources
 https://aihub.cloud.google.com/
