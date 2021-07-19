@@ -31,6 +31,8 @@ The included noteboks have been slightly modified, in order to make them simplie
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/ttmai_impersonator_plus_plus.ipynb)
 * [Image to Painting](https://github.com/fzantalis/colab_collection/blob/master/ttmai_image_to_painting_prog.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/ttmai_image_to_painting_prog.ipynb)
+* [Text to Image (VQGAN+CLIP](https://github.com/fzantalis/colab_collection/blob/master/VQGAN%2BCLIP_ttmai.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/VQGAN%2BCLIP_ttmai.ipynb)
 
 
 # The original projects can be found below:
@@ -50,6 +52,8 @@ The included noteboks have been slightly modified, in order to make them simplie
   - https://www.justinpinkney.com/toonify-yourself/
   - https://github.com/iPERDance/iPERCore
   - https://github.com/jiupinjia/stylized-neural-painting
+  - https://github.com/CompVis/taming-transformers
+  - https://github.com/openai/CLIP
 
 # Additional resources
 https://aihub.cloud.google.com/
