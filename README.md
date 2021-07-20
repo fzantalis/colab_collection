@@ -31,7 +31,7 @@ The included noteboks have been slightly modified, in order to make them simplie
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/ttmai_impersonator_plus_plus.ipynb)
 * [Image to Painting](https://github.com/fzantalis/colab_collection/blob/master/ttmai_image_to_painting_prog.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/ttmai_image_to_painting_prog.ipynb)
-* [Text to Image (VQGAN+CLIP](https://github.com/fzantalis/colab_collection/blob/master/VQGAN%2BCLIP_ttmai.ipynb)
+* [Text to Image (VQGAN+CLIP)](https://github.com/fzantalis/colab_collection/blob/master/VQGAN%2BCLIP_ttmai.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/VQGAN%2BCLIP_ttmai.ipynb)
 
 
