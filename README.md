@@ -33,6 +33,10 @@ The included noteboks have been slightly modified, in order to make them simplie
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/ttmai_image_to_painting_prog.ipynb)
 * [Text to Image (VQGAN+CLIP)](https://github.com/fzantalis/colab_collection/blob/master/VQGAN%2BCLIP_ttmai.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/VQGAN%2BCLIP_ttmai.ipynb)
+* [Deforum Stable Diffusion](https://github.com/fzantalis/deforum-stable-diffusion-audio/blob/main/Deforum_Stable_Diffusion.ipynb)
+[![Open In Colab](https://colab.research.google.com/github/fzantalis/deforum-stable-diffusion-audio/blob/main/Deforum_Stable_Diffusion.ipynb)
+* [Audio Keyframe Generator for Deforum](https://github.com/fzantalis/colab_collection/blob/master/Audio_Keyframe_Generator_For_Deforum_Stable_Diffusion.ipynb)
+[![Open In Colab](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/Audio_Keyframe_Generator_For_Deforum_Stable_Diffusion.ipynb)
 
 
 # The original projects can be found below:
