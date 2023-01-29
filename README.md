@@ -37,6 +37,8 @@ The included noteboks have been slightly modified, in order to make them simplie
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/deforum-stable-diffusion-audio/blob/main/Deforum_Stable_Diffusion.ipynb)
 * [Audio Keyframe Generator for Deforum](https://github.com/fzantalis/colab_collection/blob/master/Audio_Keyframe_Generator_For_Deforum_Stable_Diffusion.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/Audio_Keyframe_Generator_For_Deforum_Stable_Diffusion.ipynb)
+* [Alpha Matte Mask From Video](https://github.com/fzantalis/colab_collection/blob/master/alpha_matte_mask_from_video.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fzantalis/colab_collection/blob/master/alpha_matte_mask_from_video.ipynb)
 
 
 # The original projects can be found below:
